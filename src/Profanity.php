@@ -1,6 +1,6 @@
 <?php
 
-namespace Sworup\ProfanityFilter;
+namespace federicocandiago\ProfanityFilter;
 
 use Illuminate\Support\Facades\Facade;
 
