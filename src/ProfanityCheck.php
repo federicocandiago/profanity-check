@@ -1,8 +1,8 @@
 <?php
 
-namespace Sworup\ProfanityFilter;
+namespace federicocandiago\ProfanityCheck;
 
-class ProfanityFilter
+class ProfanityCheck
 {
     protected $vocabulary = [
 
