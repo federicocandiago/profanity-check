@@ -11,13 +11,8 @@ Please refer to the [composer documentation](https://getcomposer.org/doc/05-repo
 ## Usage
 
 ``` php
-$swear_word = ['dog'];
-$blacklist  = ['puppy'];
-$replace    = ['a' => '(a|a\.|a\-|4|@|Á|á|À|Â|à|Â|â|Ä|ä|Ã|ã|Å|å|α|Δ|Λ|λ)'];
-
 $profanity_filter = new sworup\ProfanityFilter();
 echo $profanity_filter->isClean('hello world');
-
 ```
 
 The above code would return:
@@ -30,8 +25,7 @@ The above code would return:
 
 For the original version: 
 
-- [Sworup Shakya][link-author]
-- [All Contributors][link-contributors]
+- [Sworup Shakya](https://github.com/sworup/)
 
 ## License
 
