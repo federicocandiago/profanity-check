@@ -1,4 +1,4 @@
-# Profanity Checker
+# Profanity Check
 
 This package's ```isClean()``` function returns a boolean value according to whether the input string contains any blacklisted words or word parts. It's been designed to work with [Laravel\Lumen 7.x](https://github.com/laravel/lumen-framework).
 

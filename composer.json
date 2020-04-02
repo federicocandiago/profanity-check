@@ -1,6 +1,6 @@
 {
-    "name": "federicocandiago/profanityfilter",
-    "description": "Profanity filter package would help you censor some of the bad words users put in your posts and/or comments.",
+    "name": "federicocandiago/profanityCheck",
+    "description": ".",
     "keywords": [
         "laravel",
         "swear word",
@@ -9,7 +9,7 @@
         "censor",
         "Profanity Filter"
     ],
-    "homepage": "https://github.com/federicocandiago/ProfanityFilter",
+    "homepage": "https://github.com/federicocandiago/ProfanityCheck",
     "license": "MIT",
     "authors": [
         {
