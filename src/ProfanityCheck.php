@@ -1,7 +1,5 @@
 <?php
 
-namespace federicocandiago\ProfanityCheck;
-
 class ProfanityCheck
 {
     protected $vocabulary = [

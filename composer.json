@@ -28,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "FedericoCandiago\\ProfanityCheck\\": "src"
+            "ProfanityCheck": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "FedericoCandiago\\ProfanityCheck\\": "src"
+            "ProfanityCheck": "src"
         }
     },
     "scripts": {
