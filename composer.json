@@ -1,0 +1,47 @@
+{
+    "name": "federicocandiago/profanityCheck",
+    "description": ".",
+    "keywords": [
+        "laravel",
+        "swear word",
+        "curse words",
+        "remove profanity",
+        "censor",
+        "Profanity Filter"
+    ],
+    "homepage": "https://github.com/federicocandiago/ProfanityCheck",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "FedericoCandiago",
+            "email": "info@fede.biz",
+            "homepage": "https://github.com/federicocandiago/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=5.3.0"
+    },
+    "require-dev": {
+        "scrutinizer/ocular": "~1.1",
+        "phpspec/phpspec": "~2.1"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "autoload-dev": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "scripts": {
+        "test": "phpspec"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "dev-master"
+        }
+    }
+}
